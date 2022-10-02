@@ -18,6 +18,7 @@
 The goal of the project is to analyze historical data about Starbucks' app usage in order to develop an algorithm
 that finds the most suiting offer type for each customer.
 
+The blog is written on the following [link](https://medium.com/@saurav29singh/capstone-starbucks-challenge-6abb2105fd4f)
 
 ### Problem Statement<a name="Statement"></a>
 Starbucks wants to find a way **to give to each customer the right in-app special offer**. There are 3 different kind of offers: *Buy One Get One* (BOGO), classic *Discount* or *Informational* (no real offer, it provides informations)
